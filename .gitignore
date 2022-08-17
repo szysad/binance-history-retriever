@@ -1,6 +1,9 @@
 # ignore the data directories
 data/*
 compressed/*
+*.parquet
+.gitignore
+*.zip
 
 # macOS junk files
 .DS_Store
